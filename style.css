@@ -2,3 +2,11 @@
     margin: 0;
     padding: 0;
 }
+h2{
+    color: blue;
+    font-size: 24px;
+}
+p{
+    color: yellow;
+    font-size: 26px;
+}
